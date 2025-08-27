@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Travis Hanson
 
 <!--
 **hanson-travis/hanson-travis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am currently working for Nucor-Vulcraft as a Dev Team Lead for a group that works on engineering related software - specifically our joist design program which is used by all Vulcraft divisions in North America.
+- I am currently advancing my education by beginning a Masters Degree in Software Engineering.
+- I have been maintaining existing code written in Fortran at work but we're moving into C# and other languages with our recent projects.
+- How to reach me: You can email me at my school address which is trhans04@wsc.edu.
+
+## Education 
+- B.S. Civil Engineering, South Dakota School of Mines and Technology, 2002
