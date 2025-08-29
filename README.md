@@ -1,24 +1,29 @@
-## Hi, I'm Travis Hanson
+# Hi, I'm Travis Hanson.
+You found me! Thanks for checking out my bio.
 
-<!--
-**hanson-travis/hanson-travis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- I spent my formative years in Gillette, Wyoming but most of my adult life has been in Northeast Nebraska between Norfolk and Pierce.
+    - I have a wife and three adult children.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I work in Norfolk for Vulcraft which is a division of Nucor Steel.
+    - I have been with them since 2003.
+    - I spent 4 1/2 years as a Design Engineer designing joists for schools, and commercial buildings.
+    - I spent around 2 1/2 years in Research and Development performing various tasks.
+    - I eventually started developing on our custom joist design software.
+    - Now I am the Dev Team lead for Vulcraft's Engineering Tools dev team developing the joist design software.
 
-- I am currently working for Nucor-Vulcraft as a Dev Team Lead for a group that works on engineering related software - specifically our joist design program which is used by all Vulcraft divisions in North America.
-- I am currently advancing my education by beginning a Masters Degree in Software Engineering.
-- I have been maintaining existing code written in Fortran at work but we're moving into C# and other languages with our recent projects.
-- How to reach me: You can email me at my school address which is trhans04@wsc.edu.
+- I am continuing my education to pursue a Masters in Software Engineering.
+    - My job could benefit from having a formal education in the types of tasks I currently do to manage a development team.
+    - More and more of what we're doing involves project management and collaboration between different teams.
 
-## Education 
-- B.S. Civil Engineering, South Dakota School of Mines and Technology, 2002
+- The fundamental skill I use everyday is to examine a problem or requirement and be able to break it down into smaller actionable steps.
+    - This was a learned skill that I developed while learning to write code and to lead teams.
+
+## Contact Info
+
+- You can email me at my school address which is **trhans04@wsc.edu**
+
+### Education
+
+- B.S. Civil Engineering (Structural Emphasis), South Dakota School of Mines and Technology
