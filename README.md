@@ -1,29 +1,43 @@
-# Hi, I'm Travis Hanson.
-You found me! Thanks for checking out my bio.
+# Travis Hanson
 
-## About Me
+Hello! I'm Travis Hanson, a civil engineer with a passion for continuous learning. I'm currently a Development Team Lead at Vulcraft (a division of Nucor), where I work on custom engineering design tools for open web steel joists. Alongside work, I'm knocking out a couple of required undergraduate courses I need before I begin pursuing a Master’s degree in Software Engineering. In order to continue being a good leader, I need to continue building a strong technical foundation. This GitHub space is where I explore ideas, experiment, and build hobby projects.
 
-- I spent my formative years in Gillette, Wyoming but most of my adult life has been in Northeast Nebraska between Norfolk and Pierce.
-    - I have a wife and three adult children.
+## Professional Experience
 
-- I work in Norfolk for Vulcraft which is a division of Nucor Steel.
-    - I have been with them since 2003.
-    - I spent 4 1/2 years as a Design Engineer designing joists for schools, and commercial buildings.
-    - I spent around 2 1/2 years in Research and Development performing various tasks.
-    - I eventually started developing on our custom joist design software.
-    - Now I am the Dev Team lead for Vulcraft's Engineering Tools dev team developing the joist design software.
+I’m a mid-career engineer and team lead with a background that blends structural engineering and software development. At Vulcraft, I lead the Engineering Tools development team, focused on building and modernizing internal joist design software used by engineers across the organization.
 
-- I am continuing my education to pursue a Masters in Software Engineering.
-    - My job could benefit from having a formal education in the types of tasks I currently do to manage a development team.
-    - More and more of what we're doing involves project management and collaboration between different teams.
+My role today is less about writing production code every day and more about breaking down complex problems, guiding technical direction, and helping teams turn ideas into working systems. That said, I still enjoy getting my hands dirty when I can.
 
-- The fundamental skill I use everyday is to examine a problem or requirement and be able to break it down into smaller actionable steps.
-    - This was a learned skill that I developed while learning to write code and to lead teams.
+## Education & Continuing Learning
 
-## Contact Info
+I’m currently continuing my education with the goal of earning a Master’s degree in Software Engineering. As part of that path, I recently completed a fundamentals of programming course and am now enrolled in **Programming Fundamentals II**, which focuses on object-oriented programming using Java.
 
-- You can email me at my school address which is **trhans04@wsc.edu**
+The coursework covers core OOP concepts (abstraction, encapsulation, inheritance, and polymorphism), SOLID principles, interfaces, generics, collections, and basic GUI development using JavaFX. While I’ve worked in software for years, these classes are helping me formalize concepts I learned organically and fill in gaps I never had time to revisit earlier in my career.
 
-### Education
+## Personal Projects
 
-- B.S. Civil Engineering (Structural Emphasis), South Dakota School of Mines and Technology
+This GitHub account is intentionally personal and exploratory. The projects here are less about showcasing perfect code and more about exploring ideas I find interesting.
+
+So far, I’ve built:
+- **A pool shot clock timer** — inspired by competitive billiards and the idea of enforcing pace of play.
+- **A pool-themed puzzle game** — a small logic-driven game aimed at pool players, built more as a creative experiment than a polished product.
+
+Many of these projects were completed using modern AI-assisted tools to accelerate learning and prototyping. Over time, I plan to revisit and refine them as my skills and ideas evolve.
+
+## Personal Background
+
+I grew up in Gillette, Wyoming, and have spent most of my adult life in northeast Nebraska. I’m married and have three adult children.
+
+Outside of software, I enjoy:
+- Playing and competing in billiards
+- Watching my daughters play fastpitch softball
+- Listening to music (with broad tastes)
+- Thinking about systems — whether they involve code, sports, or problem-solving in general
+
+## Contact
+
+If you’d like to get in touch, you can reach me at my school email:
+
+**trhans04@wsc.edu**
+
+Thanks for stopping by and taking a look.
